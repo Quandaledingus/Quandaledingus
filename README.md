@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peijix!
 
-### 💻 Software Developer | 🎮 Game Developer | 🐍 Python & 🦀 Rust Enthusiast
+### 💻 Software Developer | 🎮 Game Developer | 🐍 Python & ➡️ Rust Enthusiast
 
 ---
 
